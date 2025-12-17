@@ -12,28 +12,7 @@ This repository contains my solutions to **Striver's DSA Sheet**, written in **C
 - ✅ Selection Sort
 - ✅ Bubble Sort
 - ✅ Insertion Sort
-- ✅ Merge Sort
-- ✅ Recursive Bubble Sort
-- ✅ Recursive Insertion Sort
-- ✅ Quick Sort
-
----
-
-### 🔵 Arrays – Easy Level
-- ✅ Largest Element in an Array
-- ✅ Second Largest Element
-- ✅ Check if Array is Sorted
-- ✅ Remove Duplicates from Sorted Array
-- ✅ Left Rotate by 1 Place
-- ✅ Left Rotate by D Places
-- ✅ Move Zeros to End
-- ✅ Linear Search
-- ✅ Find Union of Arrays
-- ✅ Missing Number in Array
-- ✅ Max Consecutive 1s
-- ✅ Number Appears Once (others twice)
-
-⏳ Medium/Hard Array Problems — In Progress
+⏳ Other Sorting Problems — In Progress
 
 ---
 
